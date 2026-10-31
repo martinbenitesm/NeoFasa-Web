@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=68&duration=3000&pause=1000&color=0A95BF&center=true&vCenter=true&width=1000&height=80&lines=🧬+NeoFasa+Web+🧬" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=72&duration=3000&pause=1000&color=0A95BF&center=true&vCenter=true&width=1000&height=80&lines=🧬+NeoFasa+Web+🧬" />
 </p>
 
 ## 📌 Descripción General
